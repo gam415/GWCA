@@ -7,6 +7,8 @@
 #
 # WHY: GitHub Actions only runs scheduled workflows from the default branch.
 #      By using a separate default branch, "main" stays a pristine mirror of upstream.
+# 
+# Updated for GHA staleness check: 06/07/2026 
 
 name: Sync fork with upstream
 
